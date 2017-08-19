@@ -31,5 +31,5 @@ displayPower(3, 0); // 1
 displayPower(3, 1); // 3
 displayPower(3, 2); // 9
 displayPower(3, -1); // 1/3
-displayPower(2, 8); // 9
-displayPower(2, 11); // 1/3
+displayPower(2, 8); // 256
+displayPower(2, 11); // 2048
